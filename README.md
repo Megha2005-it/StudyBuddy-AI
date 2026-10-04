@@ -102,4 +102,4 @@ Tests cover the deterministic logic directly (arithmetic, path-safety checks) ra
 
 ## Built by
 
-Megha Gandhi — built incrementally, milestone by milestone, as a learning project.
+Megha — built incrementally, milestone by milestone, as a learning project.
