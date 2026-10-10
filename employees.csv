@@ -1,0 +1,17 @@
+Employee Id,Employee_Name,company,job,degree,salary_more_then_100k,salary,pay_category
+101,Veer,google,sales executive,bachelors,0,51033,Below avg
+102,Teja,google,sales executive,masters,0,85018,Below avg
+103,Shruti,google,business manager,bachelors,1,106124,Below avg
+104,Kia,google,business manager,masters,1,166880,Above avg
+105,Sneha,google,computer programmer,bachelors,0,87484,Below avg
+106,Jacky,google,computer programmer,masters,1,160976,Above avg
+107,Sam,abc pharma,sales executive,masters,0,93887,Below avg
+108,Ali,abc pharma,computer programmer,bachelors,0,67998,Below avg
+109,Jenny,abc pharma,business manager,bachelors,0,54123,Below avg
+110,Anu,abc pharma,business manager,masters,1,162715,Above avg
+111,Tanya,facebook,sales executive,bachelors,1,131016,Above avg
+112,Abhay,facebook,sales executive,masters,1,102179,Below avg
+113,Kriti,facebook,business manager,bachelors,1,172215,Above avg
+114,Sonam,facebook,business manager,masters,1,131563,Above avg
+115,Kartik,facebook,computer programmer,bachelors,1,143572,Above avg
+116,Neha,facebook,computer programmer,masters,1,112315,Below avg
