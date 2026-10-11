@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Your personal conversation history — not part of the project code
+chats/
+conversation_history.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment (if you ever create one)
+venv/
+.venv/
+
+# OS/editor clutter
+.DS_Store
