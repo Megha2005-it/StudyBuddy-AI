@@ -6,7 +6,7 @@ chats/
 conversation_history.json
 
 # Python
-__pycache__/
+__pycache__/ 
 *.pyc
 
 # Virtual environment (if ever create one)
