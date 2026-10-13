@@ -100,6 +100,4 @@ Tests cover the deterministic logic directly (arithmetic, path-safety checks) ra
 - Retrieval-augmented generation for large document sets, instead of resending full conversation history every call
 - Automated chart/visualization generation surfaced directly in the Streamlit UI
 
-## Built by
 
-Megha — built incrementally, milestone by milestone, as a learning project.
