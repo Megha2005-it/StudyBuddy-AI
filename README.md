@@ -94,10 +94,5 @@ pytest test_tools.py -v
 
 Tests cover the deterministic logic directly (arithmetic, path-safety checks) rather than the live API, since API calls are costly and non-deterministic to test against on every run.
 
-## What I'd add next
-
-- A proper sandbox (container-level isolation) for `execute_python`, rather than process-level
-- Retrieval-augmented generation for large document sets, instead of resending full conversation history every call
-- Automated chart/visualization generation surfaced directly in the Streamlit UI
 
 
